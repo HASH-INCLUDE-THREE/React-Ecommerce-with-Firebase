@@ -1,0 +1,91 @@
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(sprite.svg);
+}
+.icon-newspaper {
+  width: 32px;
+  height: 32px;
+  background-position: 0 0;
+}
+.icon-headphones {
+  width: 32px;
+  height: 32px;
+  background-position: -48px 0;
+}
+.icon-music {
+  width: 32px;
+  height: 32px;
+  background-position: -96px 0;
+}
+.icon-price-tag {
+  width: 32px;
+  height: 32px;
+  background-position: -144px 0;
+}
+.icon-heart-broken {
+  width: 32px;
+  height: 32px;
+  background-position: -192px 0;
+}
+.icon-man-woman {
+  width: 32px;
+  height: 32px;
+  background-position: -240px 0;
+}
+.icon-bookmark {
+  width: 20px;
+  height: 20px;
+  background-position: 0 -48px;
+}
+.icon-chevron-thin-right {
+  width: 20px;
+  height: 20px;
+  background-position: -36px -48px;
+}
+.icon-aircraft {
+  width: 20px;
+  height: 20px;
+  background-position: -72px -48px;
+}
+.icon-chat {
+  width: 20px;
+  height: 20px;
+  background-position: -108px -48px;
+}
+.icon-home {
+  width: 20px;
+  height: 20px;
+  background-position: -144px -48px;
+}
+.icon-key {
+  width: 20px;
+  height: 20px;
+  background-position: -180px -48px;
+}
+.icon-location-pin {
+  width: 20px;
+  height: 20px;
+  background-position: -216px -48px;
+}
+.icon-magnifying-glass {
+  width: 20px;
+  height: 20px;
+  background-position: -252px -48px;
+}
+.icon-map {
+  width: 20px;
+  height: 20px;
+  background-position: -288px -48px;
+}
+.icon-news {
+  width: 20px;
+  height: 20px;
+  background-position: -324px -48px;
+}
+.icon-star {
+  width: 20px;
+  height: 20px;
+  background-position: -360px -48px;
+}
+
