@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/HASH-INCLUDE-THREE/ecom.git.
+This project was bootstrapped with [Create React App](https://github.com/HASH-INCLUDE-THREE/React-Ecommerce-with-Firebase.git).
 
 ## Available Scripts
 
