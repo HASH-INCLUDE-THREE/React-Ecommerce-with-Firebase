@@ -1,6 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/HASH-INCLUDE-THREE/React-Ecommerce-with-Firebase.git).
 
-## Available Scripts
+# About Project
+This is a simple Ecommerce site with React frontend and firebase backend. This project was bootstrapped with Create React App.
+Screenshot
+![Uploading React_Firebase_Ecommerce_App.png…]()
+
 
 In the project directory, you can run:
 
